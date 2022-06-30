@@ -1,0 +1,156 @@
+main .section-one{
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+main .section-one .box1{
+    width: 400px;
+    height: 100px;
+    border: solid;
+    position: relative;
+    top:150px;
+    left: 650px;
+    
+}
+main .section-one .box1 h2{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+main .section-one .box{
+    padding-left: 600px;
+    padding-top: 200px;
+}
+main .section-one .box p{
+    width: 40%;
+    text-align: center;
+}
+main .section-one .box .buttons{
+    padding-left: 150px;
+}
+main .section-two{
+    width: 100%;
+    height: 600px;
+}
+main .section-two .box{
+    
+    height: 200px;
+    padding-top: 50PX;
+    
+}
+main .section-two .box p{
+    text-align: center;
+}
+main .section-two .box h3{
+    text-align: center;
+}
+main .section-two .container{
+    display: flex;
+}
+main .section-two .container p{
+    width: 60%;
+    text-align: center;
+}
+main .section-two .container h4{
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+main .section-two .container i{
+    position: relative;
+    left: 100px;
+    
+}
+main .section-two .container .b{
+   position: relative;
+   left: 60px;
+}
+
+main .section-three {
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+main .section-three h2{
+    padding-left: 400px;
+    padding-top: 200px;
+}
+main .section-foor{
+    width: 100%;
+    height: 700px;
+}
+main .section-foor .box h3{
+    text-align: center;
+    padding-top: 50px;
+}
+main .section-foor .box p{
+    text-align: center;
+}
+main .section-foor .container{
+    display: flex;
+}
+main .section-foor .container h4{
+    font-size: 18px;
+}
+main .section-five {
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+main .section-five h2{
+    padding-left: 400px;
+    padding-top: 200px;
+}
+main .section-six{
+    width: 100%;
+    height: 600px;
+}
+main .section-six h3{
+    text-align: center;
+    padding-top: 50px;
+}
+main .section-six p{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.section-six .labelinput{
+    padding-left: 700px;
+}
+main .section-seven{
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+main .section-seven h2{
+    padding-left: 400px;
+    padding-top: 200px;
+}
+.footer{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(7, 7, 22);
+}
+.footer .container{
+    height: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer .container .col-md-4 p{
+    color: white;
+}
+.footer .container .col-md-4 h4{
+    color: white;
+}
+.footer .text p{
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+}
+.images{
+    width: 100%;
+    height: 300px;
+}
